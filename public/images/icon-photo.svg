@@ -1,0 +1,22 @@
+<svg width="64" height="64" viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background circle -->
+  <circle cx="32" cy="32" r="30" fill="#2A2D3E"/>
+
+  <!-- Java cup -->
+  <path d="M24 20c0 2 4 3 4 6s-4 4-4 6 4 4 4 6-4 4-4 6" stroke="#F89820" stroke-width="2" fill="none"/>
+  <path d="M28 20c0 2-4 3-4 6s4 4 4 6-4 4-4 6 4 4 4 6" stroke="#5382A1" stroke-width="2" fill="none"/>
+  <ellipse cx="28" cy="48" rx="12" ry="4" fill="#F89820"/>
+
+  <!-- Code brackets (for development) -->
+  <text x="16" y="24" font-size="14" fill="#FFDB6E" font-family="Arial" font-weight="bold">{</text>
+  <text x="44" y="24" font-size="14" fill="#FFDB6E" font-family="Arial" font-weight="bold">}</text>
+
+  <!-- Database icon -->
+  <ellipse cx="32" cy="44" rx="12" ry="6" fill="#FFC107"/>
+  <rect x="20" y="40" width="24" height="8" fill="#FFC107"/>
+  <ellipse cx="32" cy="40" rx="12" ry="4" fill="#FF9800"/>
+
+  <!-- "Full Stack" label -->
+  <text x="16" y="60" font-size="10" fill="#FFFFFF" font-family="Arial" font-weight="bold">Full Stack</text>
+</svg>
+

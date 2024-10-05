@@ -1,0 +1,30 @@
+<svg width="40" height="40" viewBox="0 0 40 40" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Monitor body -->
+  <rect x="4" y="4" width="32" height="24" rx="2" fill="url(#gradient)" stroke="none"/>
+
+  <!-- Monitor stand -->
+  <rect x="17" y="28" width="6" height="6" fill="#FFBC5E" stroke="none"/>
+  <rect x="12" y="34" width="16" height="2" fill="#FFBC5E" stroke="none"/>
+
+  <!-- Stack structure inside monitor -->
+  <rect x="10" y="10" width="5" height="3" fill="white"/>
+  <rect x="10" y="14" width="5" height="3" fill="white"/>
+  <rect x="10" y="18" width="5" height="3" fill="white"/>
+
+  <!-- Tree structure inside monitor -->
+  <circle cx="27" cy="12" r="2" fill="white"/>
+  <line x1="27" y1="14" x2="22" y2="18" stroke="white" stroke-width="2"/>
+  <line x1="27" y1="14" x2="32" y2="18" stroke="white" stroke-width="2"/>
+  <circle cx="22" cy="20" r="2" fill="white"/>
+  <circle cx="32" cy="20" r="2" fill="white"/>
+
+  <!-- Gradient definition -->
+  <defs>
+    <linearGradient id="gradient" x1="0" y1="0" x2="40" y2="40" gradientUnits="userSpaceOnUse">
+      <stop offset="0.2" stop-color="#FFDB6E"/>
+      <stop offset="1" stop-color="#FFBC5E"/>
+    </linearGradient>
+  </defs>
+</svg>
+
+
